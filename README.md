@@ -1,2 +1,2 @@
-# Coursera-projects
+# Coursera-test
 Coursera course materials
